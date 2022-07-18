@@ -2,7 +2,7 @@
 
 
 
-### Reports View
+### Sample Reports View
 
 These are the screenshots of **Allure** reports:
 
